@@ -15,7 +15,7 @@ export const Navbar = () => {
 
         <div className="test">
           <h1>revanth test</h1>
-          <h1>likith</h1>
+          <h1>likith reddy 15</h1>
         </div>
       </div>
     </div>
